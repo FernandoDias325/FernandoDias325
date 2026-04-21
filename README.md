@@ -36,7 +36,7 @@ Busco aprimorar minhas habilidades em back-end, boas práticas de desenvolviment
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoDias325&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoDias325&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br&hide=contribs&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDias325&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&locale=pt-br"/>
 
@@ -54,7 +54,7 @@ Busco aprimorar minhas habilidades em back-end, boas práticas de desenvolviment
 
 <div align="center">
 
-[![Repositório de Estudos](https://github-readme-stats.vercel.app/api/pin/?username=FernandoDias325&repo=FernandoDias325&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/FernandoDias325)
+[![Estudos-](https://github-readme-stats.vercel.app/api/pin/?username=FernandoDias325&repo=Estudos-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/FernandoDias325/Estudos-)
 
 </div>
 
@@ -103,6 +103,6 @@ const fernando = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
 
-<sub>⭐ Se algum projeto te ajudou, deixa uma estrela! </sub>
+<sub>⭐ Se algum projeto te ajudou, deixa uma estrela!</sub>
 
 </div>
