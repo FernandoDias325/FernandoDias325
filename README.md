@@ -52,13 +52,15 @@ Busco aprimorar minhas habilidades em back-end, boas práticas de desenvolviment
 
 ## 🚀 Projetos em Destaque
 
+<!-- REPOS_START -->
 <div align="center">
 
 [![Estudos-](https://github-readme-stats.vercel.app/api/pin/?username=FernandoDias325&repo=Estudos-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/FernandoDias325/Estudos-)
 
 </div>
+<!-- REPOS_END -->
 
-> 💡 *Os cards acima são atualizados automaticamente conforme novos repositórios e commits são adicionados.*
+> 💡 *Os cards acima são atualizados automaticamente conforme novos repositórios são adicionados.*
 
 ---
 
